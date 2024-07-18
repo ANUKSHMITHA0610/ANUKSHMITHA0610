@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center"> 👋 I'm Anukshmitha</h1>
 <h3 align="center">"Passionate coder with a knack for solving problems and a love for continuous learning."</h3>
 
