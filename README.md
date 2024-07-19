@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anukshmitha0610&label=Profile%20views&color=0e75b6&style=flat" alt="anukshmitha0610" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 Currently learning **Data Science**
 
-- 👀 I’m passionate about developing innovative software solutions,staying updated with the latest tech trends and engaging in creative hobbies.
+- 👀 Passionate about developing innovative software solutions,staying updated with the latest tech trends and engaging in creative hobbies.
 
-- 🎓 "I'm a graduate in Computer Science and Engineering."
+- 🎓 Graduate in Computer Science and Engineering.
 
 - 📫 How to reach me **anukshmitha@gmail.com**
 
